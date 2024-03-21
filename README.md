@@ -5,5 +5,5 @@
 !cp kaggle.json ~/.kaggle/
 !chmod 600 ~/.kaggle/kaggle.json
 
-# daatset api
+# dataset api
 !kaggle competitions download -c cifar-10
